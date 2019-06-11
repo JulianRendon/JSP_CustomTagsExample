@@ -5,7 +5,7 @@
 <head>
 <meta charset="ISO-8859-1">
 <%@taglib prefix="mma" uri="/WEB-INF/tlds/CurrentDateTag"%>
-<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="CSS/style.css" type="text/css" rel="stylesheet">
 <title>JSP Custom Tags Example</title>
 </head>
 <body>
